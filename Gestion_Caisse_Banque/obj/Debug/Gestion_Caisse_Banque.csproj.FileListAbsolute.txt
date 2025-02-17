@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\Gestion_Caisse_Banque\Gestion_Caisse_Banque\bin\Debug\Gestion_Caisse_Banque.exe.config
+C:\Users\pc\documents\visual studio 2015\Projects\Gestion_Caisse_Banque\Gestion_Caisse_Banque\obj\Debug\Gestion_Caisse_Banque.csprojResolveAssemblyReference.cache
+C:\Users\pc\documents\visual studio 2015\Projects\Gestion_Caisse_Banque\Gestion_Caisse_Banque\bin\Debug\Gestion_Caisse_Banque.exe
+C:\Users\pc\documents\visual studio 2015\Projects\Gestion_Caisse_Banque\Gestion_Caisse_Banque\bin\Debug\Gestion_Caisse_Banque.pdb
+C:\Users\pc\documents\visual studio 2015\Projects\Gestion_Caisse_Banque\Gestion_Caisse_Banque\obj\Debug\Gestion_Caisse_Banque.exe
+C:\Users\pc\documents\visual studio 2015\Projects\Gestion_Caisse_Banque\Gestion_Caisse_Banque\obj\Debug\Gestion_Caisse_Banque.pdb
